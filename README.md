@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Jessica!
 
-<!--
-**JessicaNeves-S/JessicaNeves-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Analista e Desenvolvedora em formação** | 🎯 Apaixonada por tecnologia, finanças e liderança.  
+📚 Formada em **Gestão Financeira** e estudando **Análise e Desenvolvimento de Sistemas**.  
+🚀 Buscando unir meus conhecimentos para criar soluções que facilitem o dia a dia de pessoas e empresas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tecnologias & Ferramentas
+- **Linguagens:** Python, JavaScript, HTML, CSS
+- **Banco de Dados:** MySQL, PostgreSQL
+- **Ferramentas:** Git, GitHub, VS Code
+- **Outros:** Metodologias Ágeis (Scrum, Kanban)
+
+---
+
+## 📈 Objetivos
+- Desenvolver projetos práticos que unam **finanças** e **tecnologia**  
+- Contribuir com projetos open source  
+- Melhorar continuamente minhas habilidades técnicas e de liderança
+
+---
+
+## 📫 Como me encontrar
+- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
+- E-mail: seuemail@exemplo.com
+- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
+
+---
+
+> “A tecnologia move o mundo, mas pessoas movem a tecnologia.”  
