@@ -9,6 +9,7 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
+![Contimatic](https://img.shields.io/badge/Contimatic-2963e0?style=for-the-badge&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-000000?style=for-the-badge&logo=sap&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
