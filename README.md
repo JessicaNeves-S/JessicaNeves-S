@@ -1,31 +1,30 @@
-# 👋 Olá, eu sou a Jessica!
+# 👋 Olá, meu nome é Jessica!
 
-💻 **Analista e Desenvolvedora em formação** | 🎯 Apaixonada por tecnologia, finanças e liderança.  
-📚 Formada em **Gestão Financeira** e estudando **Análise e Desenvolvimento de Sistemas**.  
-🚀 Buscando unir meus conhecimentos para criar soluções que facilitem o dia a dia de pessoas e empresas.
+💼 Formada em **Gestão Financeira**, atuo há 2 anos na **coordenação administrativa e financeira**, inspirando equipes para alcançar resultados com eficiência.  
+💡 Sou apaixonada por **liderar pessoas** e criar ambientes colaborativos e produtivos.  
+
+📚 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, buscando unir minha experiência no setor financeiro com soluções inovadoras na área de tecnologia.  
 
 ---
 
-## 🔧 Tecnologias & Ferramentas
-- **Linguagens:** Python, JavaScript, HTML, CSS
-- **Banco de Dados:** MySQL, PostgreSQL
-- **Ferramentas:** Git, GitHub, VS Code
-- **Outros:** Metodologias Ágeis (Scrum, Kanban)
+## 🚀 Tecnologias & Ferramentas
+- **ERP**: Contimatic, SAP  
+- **Desenvolvimento**: HTML  
+- **Outros**: Pacote Office, Ferramentas de Gestão  
+
+---
+
+## 🌎 Idiomas
+- **Português**: Nativo  
+- **Inglês**: B1 (Intermediário) – 3 anos de estudo  
 
 ---
 
 ## 📈 Objetivos
 - Desenvolver projetos práticos que unam **finanças** e **tecnologia**  
-- Contribuir com projetos open source  
-- Melhorar continuamente minhas habilidades técnicas e de liderança
+- Aprimorar continuamente minhas habilidades técnicas e de liderança  
 
 ---
 
-## 📫 Como me encontrar
-- LinkedIn: [linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)
-- E-mail: seuemail@exemplo.com
-- GitHub: [github.com/seu-usuario](https://github.com/seu-usuario)
-
----
-
-> “A tecnologia move o mundo, mas pessoas movem a tecnologia.”  
+## 🌐 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/jessicanevessilva)
