@@ -16,7 +16,7 @@
 
 ## 🌎 Idiomas
 - **Português**: Nativo  
-- **Inglês**: B1 (Intermediário) – 3 anos de estudo  
+- **Inglês**: B1 (Intermediário)  
 
 ---
 
