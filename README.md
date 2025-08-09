@@ -1,4 +1,4 @@
- # 👋 Olá, meu nome é Jéssica!
+ # 👋 Hello, guys! Me chamo Jéssica,
 
 💼 Formada em **Gestão Financeira**, atuo há 2 anos na **coordenação administrativa e financeira**, liderando e inspirando equipes para alcançar resultados com eficiência.  
 💡 Apaixonada por criar ambientes colaborativos e produtivos.  
